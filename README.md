@@ -1,7 +1,7 @@
 # 👋Hi, im Dakoi (New acc)
 ### 💻 Software Engineer | Penetration Tester | OSCP & OSEP Certified | Security & Automation Enthusiast
 
-I'm a software engineer specializing in offensive cybersecurity, with a deep focus on pentesting, reverse engineering, and automation. 
+I'm a 16yo software engineer specializing in offensive cybersecurity, with a deep focus on pentesting, reverse engineering, and automation. 
 My work combines designing and building robust software with the discipline of analyzing and exploiting real-world vulnerabilities. 
 I’m not just interested in breaking things—I’m driven to understand why systems fail and how to build them to resist attacks.
 
