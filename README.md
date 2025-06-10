@@ -1,24 +1,97 @@
-# 👋Hi, im Dakoi (New acc)
-### 💻 Software Engineer | Penetration Tester | OSCP & OSEP Certified | Security & Automation Enthusiast
+# 👾 Dakoi — Pentester / Security Tools Developer
 
-I'm a 15yo software engineer specializing in offensive cybersecurity, with a deep focus on pentesting, reverse engineering, and automation. 
-My work combines designing and building robust software with the discipline of analyzing and exploiting real-world vulnerabilities. 
-I’m not just interested in breaking things—I’m driven to understand why systems fail and how to build them to resist attacks.
+## 🌀 About
 
-### ⚙️ Projects and Key Experiences
+Hi! I’m **Pol**, though more commonly known online as **Dakoi**.  
+I'm a **penetration tester** and **security tool developer** with a strong focus on **offensive security**. I thrive on breaking, understanding, and rebuilding systems through curiosity and experimentation.
 
-🔍 Custom Payload Generator – A framework to craft adaptable payloads and evade EDRs, driven by adversarial thinking.
+My work includes manual exploitation, reverse engineering, and fuzzing, and I'm passionate about converting those insights into practical tools and solutions.  
+Outside of projects, I actively participate in **CTF competitions**, contribute to community knowledge bases, and enjoy mentoring others on their cybersecurity journey.
 
-🔎 ReconFramework – An advanced reconnaissance and enumeration toolset tailored for penetration testing.
+Security, to me, is not just a job—it’s a mindset and a never-ending learning process.
 
-🔬 Reversing Challenges – In-depth binary analysis using RE techniques, with a focus on understanding not just the "how" but the "why" behind the code.
+---
 
-🛡️ SecureOps – An initiative to blend DevOps workflows with offensive cybersecurity, automating vulnerability discovery and exploitation.
+## 🚀 Highlighted Projects
 
-🌐 Community – Active contributor to forums and open source projects related to pentesting and tool development, sharing real-world, practical knowledge.
+- **Aurora v1**  
+  Multi-tool for pentesters and hardware hackers: supports RFID, RF, IR, GPIO/UART/SPI/I2C, Bluetooth, and BadUSB HID mode.
 
+- **Aura Bot v4**  
+  Discord bot with advanced moderation: spam detection, behavior analysis, dynamic punishments, and customizable filters.
 
-### 📚 My Professional Approach
-I go beyond theory and conventional methods by constantly updating my skillset with the latest techniques and trends in offensive security and software development. 
-Security is a dynamic challenge that demands creativity, discipline, and a critical mindset—qualities I bring to every project. 
-My goal is always to deliver practical, adaptable solutions that address complex, evolving threats.
+- **Advanced Roblox Injector**  
+  Sophisticated Roblox injector with custom evasion techniques and injection control logic.
+
+- **Active Directory Simulation Lab**  
+  Realistic AD environments to practice exploitation and advanced pentesting techniques.
+
+- **Freelance Pentesting**  
+  Simulated corporate environments for advanced exploit development and defense evasion techniques.
+
+---
+
+## 🧠 Skills
+
+### • Pentesting & Exploitation  
+OWASP methodologies · Reverse Engineering · Manual Exploitation · Fuzzing · Defense Evasion
+
+### • Tooling  
+Burp Suite · Metasploit · Nmap · Wireshark · BloodHound · CrackMapExec · Cobalt Strike
+
+### • Development  
+Git · GitHub · GitLab · VS Code · Docker · Jenkins · Postman · Fiddler
+
+### • Programming  
+`Python` · `Rust` · `C/C++` · `Java` · `C#` · `JavaScript` · `Bash` · `PowerShell`
+
+### • Environments  
+Windows · Linux (Debian, Arch, Kali, Ubuntu, RedHat) · Active Directory · AWS / Azure
+
+### • Other  
+System Hardening · Anti-Forensics · Discord API · Automation Scripts
+
+---
+
+## 💼 Experience
+
+**Freelance Pentester & Security Tool Dev**  
+*Self-Managed Lab | 2019 – Present*  
+- Built tools for exploitation, recon, and evasion  
+- Simulated enterprise infrastructures for testing  
+- Delivered in-depth reports and technical documentation  
+- Performed web app audits with fuzzing and bypass focus  
+
+**Community Mentor & CTF Competitor**  
+*Discord & Forums | 2022 – Present*  
+- Mentored beginners in security communities  
+- Published scripts, CTF writeups, and post-mortems  
+- Actively engaged in capture-the-flag events and competitions  
+
+---
+
+## 🧩 By the Numbers
+
+- **112+** Projects Completed  
+- **2.3K+** Positive Reviews on Tools & Contributions
+
+---
+
+## 🎓 Education
+
+**Jesuites Educació, Barcelona**  
+Secondary Education (ESO) — *2022 – Present*
+
+**Self-Directed Learning**  
+Ethical hacking, network security, and advanced programming through hands-on experience and independent study.
+
+---
+
+## 📬 Contact
+
+Looking to collaborate or need a consultation?  
+Let’s connect.
+
+📍 Barcelona, Spain  
+📧 dakoi@proton.me  
+🌐 [github.com/dakoisss](https://github.com/dakoisss)
