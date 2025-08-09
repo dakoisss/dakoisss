@@ -79,9 +79,6 @@ System Hardening · Anti-Forensics · Discord API · Automation Scripts
 
 ## 🎓 Education
 
-**Jesuites Educació, Barcelona**  
-Secondary Education (ESO) — *2022 – Present*
-
 **Self-Directed Learning**  
 Ethical hacking, network security, and advanced programming through hands-on experience and independent study.
 
