@@ -2,7 +2,7 @@
 
 ## 🌀 About
 
-Hi! I’m **Pol**, though more commonly known online as **Dakoi**.  
+Hi! I’m  **Dakoi**.  
 I'm a **penetration tester** and **security tool developer** with a strong focus on **offensive security**. I thrive on breaking, understanding, and rebuilding systems through curiosity and experimentation.
 
 My work includes manual exploitation, reverse engineering, and fuzzing, and I'm passionate about converting those insights into practical tools and solutions.  
@@ -75,14 +75,7 @@ System Hardening · Anti-Forensics · Discord API · Automation Scripts
 - **112+** Projects Completed  
 - **2.3K+** Positive Reviews on Tools & Contributions
 
----
-
-## 🎓 Education
-
-**Self-Directed Learning**  
-Ethical hacking, network security, and advanced programming through hands-on experience and independent study.
-
----
+--
 
 ## 📬 Contact
 
