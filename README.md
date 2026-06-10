@@ -43,5 +43,5 @@ When I'm not fixing a broken Xorg/Wayland config or studying network protocols, 
 
 If you want to talk about homelabs, Linux dotfiles, or open-source stuff, hit me up:
 
-* 📧 **dakoi@proton.me**
+* 📧 **dakoi.x@proton.me**
 * 📍 Barcelona, Spain
