@@ -1,73 +1,47 @@
-# 💻 Dakoi | Systems, Homelab & Offensive Security Researcher
+# 🪐 dakoi // breaking & building things
 
-## 🌀 About Me
-An environment builder and security enthusiast focused on low-level systems, Linux architecture, and offensive security methodologies. I don't just use tools; I tear them apart to understand the underlying mechanics, protocols, and vulnerabilities.
+Hi, I'm **Dakoi**. I'm a 16-year-old tech and security enthusiast from Barcelona. 
 
-Currently deep-diving into infrastructure security, system optimization, and building out my personal laboratory. My approach is driven by continuous learning, objective analysis, and a strict documentation mindset.
-
----
-
-## 🛠️ Personal Lab & Technical Projects
-
-### 🌐 Infrastructure & Homelab
-* **Active Directory Simulation Lab** (PowerShell / Docker)
-  > Deployment of enterprise-like AD environments designed to test lateral movement, persistence mechanisms, and domain escalation techniques in controlled environments.
-* **Network & Storage Administration** (Raspberry Pi / CasaOS)
-  > Implementation of automated backups, secure remote access (SSH/VPN), and local storage provisioning for development and file sharing.
-
-### 🐧 System Customization & Automation
-* **Linux Deployment & Dotfiles**
-  > Custom configuration and kernel-level tweaking for minimalist distributions (Arch, Gentoo, Void Linux). Optimization of tiling window managers (Hyprland) and custom bash/posix automation scripts.
-
-### 🛡️ Hardware & IoT Research
-* **Aurora Project v1** (Python / C Concepts)
-  > Conceptualization and modular scripts for hardware auditing, experimenting with RF, RFID, IR, and low-level serial communication protocols (UART/SPI/I2C).
+Instead of playing with standard setups, I prefer tearing systems apart to see how they work under the hood. I spend most of my time tweaking minimalist Linux distros, managing my personal homelab, and diving into offensive security concepts.
 
 ---
 
-## 🧠 Technical Framework
+## 🛠️ What I'm Working On
 
-### ⚙️ Operating Systems & Environments
-* **Linux:** Advanced administration (Arch, Gentoo, Void, Kali, Debian).
-* **Environments:** Active Directory, Windows Internals, Docker containers.
+### 🐧 Linux & Ricing
+* **Distros:** Daily driving **Arch**, experimenting with **Gentoo** and **Void Linux**.
+* **Environments:** Tiling window managers (currently customizing **Hyprland**).
+* **Automation:** Writing bash scripts to automate my system deployments and dotfiles.
 
-### 🛡️ Core Concepts & Methodologies
-* Network Architecture & Protocol Analysis (Wireshark, Nmap).
-* Active Directory exploitation vectors (BloodHound, CrackMapExec).
-* Manual exploitation logic and bypass mechanics.
+### 🏠 Homelab & Infrastructure
+* **The Pi Server:** Running a **Raspberry Pi 5** with CasaOS for local storage, backups, and media sharing with friends.
+* **AD Simulation:** Setting up an **Active Directory** lab via Docker/PowerShell to study domain exploitation, lateral movement, and privilege escalation.
 
-### 💻 Language Focus (Active Learning & Dev)
-* **Scripting & Automation:** Bash, PowerShell.
-* **Under Construction:** Building core foundations in **Python** and **Rust** for future security tool development.
+### 🛡️ CyberSec & Code (Active Learning)
+* **CTFs:** Playing Boot2Root machines and focusing on Linux privilege escalation.
+* **The Dev Journey:** I'm learning **Python** and **Rust** from scratch to build my own tools. Also exploring **C/C++** basics to understand memory management and low-level system architecture.
 
 ---
 
-## 📈 Activity & Focus Areas
+## ⚙️ Tech Stack & Tools
 
-* **CTF Competitor:** Active player focusing on network pivoting, Linux privilege escalation, and boot2root machines.
-* **Documentation:** Writing detailed writeups and post-mortems of resolved boxes to consolidate technical knowledge.
-* **System Tearing:** Continuous optimization of local configurations and security baselines.
+* **OS:** Linux (Arch, Gentoo, Void, Kali) & Windows Internals.
+* **Languages (Learning/Basics):** Python, Rust, C/C++, Bash, PowerShell.
+* **Sec Tools:** Wireshark, Nmap, BloodHound, Burp Suite (the basics for network and AD auditing).
+
+---
+
+## 🎲 Beyond the Terminal
+
+When I'm not fixing a broken Xorg/Wayland config or studying network protocols, you'll probably find me:
+* Aim training or playing competitive tactical shooters (Valorant / CS).
+* Playing the piano or the guitar.
 
 ---
 
 ## 📬 Contact
 
-Open for technical discussions, homelab architecture brainstorming, or open-source collaboration.
+If you want to talk about homelabs, Linux dotfiles, or open-source stuff, hit me up:
 
-📍 Barcelona, Spain
-📧 **dakoi@proton.me**
-🌐 **[github.com/dakoisss](https://github.com/dakoisss)**
-
----
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35" alt="bash logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="35" alt="rust logo" />
-</div>
+* 📧 **dakoi@proton.me**
+* 📍 Barcelona, Spain
