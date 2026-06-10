@@ -1,4 +1,4 @@
-# 🪐 dakoi // breaking & building things
+# 🪐 dakoi 
 
 Hi, I'm **Dakoi**.
 
